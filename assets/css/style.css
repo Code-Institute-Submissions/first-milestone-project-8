@@ -1,12 +1,11 @@
 .h1 {
-    font-family: "Exo", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 0px;
     text-align: center;
-    background-image: url("../photos/games.jpg");
 }
 
 .about-container {
-    
+    font-family: "Roboto", sans-serif
 }
