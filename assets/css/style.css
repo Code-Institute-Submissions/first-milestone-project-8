@@ -3,20 +3,33 @@
 }
 
 
-.bungee {
+.container {
     font-family: 'Bungee Hairline';
-    font-size: 22px;
-    
+    font-size: 15px;
 }
+
 
 .bungee-list {
     font-family: 'Bungee Hairline';
-    font-size: 15px;
-    font-weight: bold;
+    font-size: 5px;
 }
 
 .jumbotron {
     background-image: url("../images/banner.png");
+}
+
+#nav {
+    position: absolute;
+    left: 0px;
+    height: 40px;
+    background-color: #2C64B4;
+    width: 100%;
+    text-align: center;
+}
+#nav ul {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
 }
 
 
