@@ -3,7 +3,7 @@
 }
 
 
-.container {
+.container , footer{
     font-family: 'Bungee Hairline';
     font-size: 15px;
 }
@@ -25,6 +25,13 @@
 html, body{
     margin:0px;
     padding:0px;
+}
+
+footer{
+        background-color: #4E5D6C;
+        padding: 2%;
+
+
 }
 
 
