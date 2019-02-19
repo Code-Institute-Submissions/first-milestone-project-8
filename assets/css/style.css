@@ -30,7 +30,21 @@ html, body{
 footer{
         background-color: #4E5D6C;
         padding: 2%;
+}
 
+a {
+    color: #aed9da;
+}
+
+a:hover {
+    color: #3ddadb;
+}
+
+.header-text {
+     background-color: #aed9da;
+}
+}
+}
 
 }
 
