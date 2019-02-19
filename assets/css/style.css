@@ -11,6 +11,7 @@
 
 .jumbotron {
     background-image: url("../images/banner.png");
+    margin-top: 2rem;
 }
 
 .col-sm {
