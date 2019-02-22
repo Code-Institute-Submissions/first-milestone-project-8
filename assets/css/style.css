@@ -44,7 +44,8 @@ a:hover {
 table, th, td {
   font-family: 'Bungee Hairline';
   font-weight: bold;
-  border: 1px solid black;
+  font-size: small;
+  border: 5px solid black;
   border-spacing: 5px;
   padding-bottom: 10px;
 }
