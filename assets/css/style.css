@@ -18,14 +18,13 @@
     padding-bottom: 20px;
 }
 
-.cart {
-    background-image: url("../images/game.jpg");
-}
 
 html, body{
     margin:0px;
     padding:0px;
 }
+
+/*------ footer styling -------*/
 
 footer{
         background-color: #4E5D6C;
@@ -40,8 +39,5 @@ a:hover {
     color: #3ddadb;
 }
 
-@media {
-    navbar 
-}
 
 
