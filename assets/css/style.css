@@ -41,12 +41,9 @@ a:hover {
 
 /*------ Hall Of Fame -------*/
 
-.table {
-    width: 70%;
-    height: 70%;
-}
-
 table, th, td {
+  font-family: 'Bungee Hairline';
+  font-weight: bold;
   border: 1px solid black;
   border-spacing: 5px;
   padding-bottom: 10px;
@@ -55,6 +52,7 @@ table, th, td {
 th, td {
   padding: 15px;
   text-align: center;
+  background-color: #001f3f;
 }
 
 
