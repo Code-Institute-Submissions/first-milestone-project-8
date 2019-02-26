@@ -27,6 +27,10 @@ html, body{
     padding:0px;
 }
 
+.navbar {
+  display: flex;
+}
+
 /*------ footer styling -------*/
 
 footer{
