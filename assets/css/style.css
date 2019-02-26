@@ -8,7 +8,7 @@
 .container , footer{
     font-family: 'Bungee Hairline';
     font-size: 15px;
-    box-shadow: 1px 1px 1px #999;
+    box-shadow: 3px 3px 3px #001f3f;
 }
 
 
@@ -29,6 +29,12 @@ html, body{
 
 .navbar {
   display: flex;
+}
+
+/*------ Card styling ------*/
+
+.padding {
+    margin: 50px;
 }
 
 /*------ footer styling -------*/
