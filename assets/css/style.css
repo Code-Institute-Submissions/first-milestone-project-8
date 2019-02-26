@@ -37,6 +37,15 @@ html, body{
     margin: 50px;
 }
 
+/*------ form styling ------*/
+
+.form {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
 /*------ footer styling -------*/
 
 footer{
