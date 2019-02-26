@@ -27,8 +27,8 @@ html, body{
     padding:0px;
 }
 
-.navbar {
-  display: flex;
+a:hover {
+    text-decoration: none;
 }
 
 /*------ Card styling ------*/
@@ -41,9 +41,8 @@ html, body{
 
 .form {
   width: 100%;
-  padding: 12px 20px;
+  padding: 20px 20px;
   margin: 8px 0;
-  box-sizing: border-box;
 }
 
 /*------ footer styling -------*/
