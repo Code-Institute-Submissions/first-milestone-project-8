@@ -37,8 +37,7 @@ html {
 }
 
 
-.container,
-footer {
+.container {
     font-size: 15px;
     box-shadow: 3px 3px 3px #001f3f;
     font-family: 'ZCOOL QingKe HuangYou', cursive;
@@ -102,6 +101,9 @@ a:hover {
 footer {
     background-color: #4E5D6C;
     padding: 2%;
+    font-size: 15px;
+    box-shadow: 3px 3px 3px #001f3f;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
 }
 
 a {
@@ -112,8 +114,15 @@ a:hover {
     color: #3ddadb;
 }
 
-.glyphicon {
-    font-size: 50px;
+.fab {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 10px;
+  font-size: 40px;
+  width: 50px;
+  text-align: right;
+  text-decoration: none;
+  border-radius: 50%;
 }
 
 /*------ Hall Of Fame -------*/
