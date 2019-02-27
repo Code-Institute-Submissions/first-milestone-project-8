@@ -1,15 +1,88 @@
- <form class="form" action="/action_page.php">
-        <fieldset>
-            <legend>Got something you'd like us to review? Give us a shout!</legend>
-            Game:<br>
-            <input type="text" name="firstname"><br> Your Name:<br>
-            <input type="text" name="firstname"><br> Your Email:<br>
-            <input type="text" name="firstname"><br>Choose your warrior<br>
-            <select name="writer">
-            <option value="blank">Van Rockingham</option>
-            <option value="blank">Scrambles</option>
-            <option value="blank">Davesyndrome</option>
-            </select>
-            <input type="submit" value="Submit">
-        </fieldset>
-    </form>
+  <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="https://bootswatch.com/4/superhero/bootstrap.min.css" class="text/css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" class="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Bungee Hairline" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale-1">
+    <title>Welcome to Games Revisited!</title>
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="index.html">Games Revisited</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+        <div class="collapse navbar-collapse" id="navbarColor01">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="halloffame.html">Hall Of Fame</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="hallofshame.html">Hall Of Shame</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Fallout Maps</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="about.html">About Us</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <header class="container jumbotron font">
+        <h1 class="text-center bg-warning">Games Revisited</h1>
+        <h3 class="text-center bg-danger"> <small>Retro gaming meets modern complaining</small></h3>
+    </header> 
+   
+   
+   
+   <section class="container-fluid">
+       <div class="row bg-color-contact">
+           <div>
+           <h3 class="contact-heading uppercase text-center">Got a project in mind?</h3>
+           <h5 class="uppercase text-center">Let's work together!</h5>
+           </div>
+           <div class="center-form">
+              <form>
+                  <input text="type" name="name" class="form-control" id="fullname" placeholder="Name" required/>
+                  <input text="type" name="emailaddress" class="form-control" id="emailaddress" placeholder="Email" required/>
+                  <textarea rows="5" name="projectsummary" class="form-control" id="projectsummary" placeholder="Project Description"></textarea>
+                  <button type="submit" class="btn btn-secondary center-block">Send Project Request</button>
+              </form>
+               </div>
+           </div>
+   </section>
+   
+       <footer>
+        <div class="row">
+            <div class="col-sm bg-dark">
+                Follow us on social media! Or dont. Probably safer if you dont, to be honest.
+            </div>
+            <div class="col-sm">
+                <a target="_blank" href="https://www.facebook.com/gamesrevisited/"><i class="fab fa-facebook"></i></a>
+            </div>
+            <div class="col-sm">
+                <a target="_blank" href="https://twitter.com/GamesRevisited?lang=en-gb"><i class="fab fa-twitter"></i></a>
+            </div>
+        </div>
+
+    </footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
+
