@@ -1,3 +1,35 @@
+/*------ Front Page ------*/
+
+body,
+html {
+    height: 100%;
+}
+
+
+.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/city.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-family: 'ZCOOL QingKe HuangYou';
+}
+
+
+
+
+
 /*------ Header -------*/
 
 .bg-success {
@@ -5,26 +37,43 @@
 }
 
 
-.container , footer{
-    font-family: 'Bungee Hairline';
+.container,
+footer {
     font-size: 15px;
     box-shadow: 3px 3px 3px #001f3f;
 }
 
+.table {
+    font-family: 'Bungee Hairline';
+}
 
 .jumbotron {
-    background-image: url("../images/banner.png");
-    margin-top: 2rem;
+    background-image: url("../images/games.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
+.font {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-weight: bold;
+    background-image: url("../images/city.png");
+    margin-top: 2rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 
 .col-sm {
     padding-bottom: 20px;
 }
 
 
-html, body{
-    margin:0px;
-    padding:0px;
+html,
+body {
+    margin: 0px;
+    padding: 0px;
 }
 
 a:hover {
@@ -40,16 +89,16 @@ a:hover {
 /*------ form styling ------*/
 
 .form {
-  width: 100%;
-  padding: 20px 20px;
-  margin: 8px 0;
+    width: 100%;
+    padding: 20px 20px;
+    margin: 8px 0;
 }
 
 /*------ footer styling -------*/
 
-footer{
-        background-color: #4E5D6C;
-        padding: 2%;
+footer {
+    background-color: #4E5D6C;
+    padding: 2%;
 }
 
 a {
@@ -60,22 +109,26 @@ a:hover {
     color: #3ddadb;
 }
 
+.glyphicon {
+    font-size: 50px;
+}
+
 /*------ Hall Of Fame -------*/
 
-table, th, td {
-  font-family: 'Bungee Hairline';
-  font-weight: bold;
-  font-size: small;
-  border: 5px solid black;
-  border-spacing: 5px;
-  margin-bottom: 50px;
+table,
+th,
+td {
+    font-family: 'Bungee Hairline';
+    font-weight: bold;
+    font-size: small;
+    border: 5px solid black;
+    border-spacing: 5px;
+    margin-bottom: 50px;
 }
 
-th, td {
-  padding: 15px;
-  text-align: center;
-  background-color: #001f3f;
+th,
+td {
+    padding: 15px;
+    text-align: center;
+    background-color: #001f3f;
 }
-
-
-
