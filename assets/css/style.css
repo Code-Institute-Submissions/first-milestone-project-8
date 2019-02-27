@@ -41,6 +41,7 @@ html {
 footer {
     font-size: 15px;
     box-shadow: 3px 3px 3px #001f3f;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
 }
 
 .table {
@@ -48,10 +49,12 @@ footer {
 }
 
 .jumbotron {
-    background-image: url("../images/games.jpg");
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    background-color: #001f3f;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    margin-bottom: 0px;
 }
 
 .font {
