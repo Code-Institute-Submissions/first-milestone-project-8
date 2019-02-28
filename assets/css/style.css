@@ -148,6 +148,11 @@ td {
 
 
 
+.carousel-caption-box {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 0px 10px 10px;
+  } 
+
 /*------ About Page -------*/
 
 .social-icon {
