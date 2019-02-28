@@ -169,6 +169,10 @@ td {
     
 }
 
+.card-deck {
+    float:center;
+}
+
 /*------ Contact Page -------*/
 
 .form {
