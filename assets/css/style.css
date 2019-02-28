@@ -100,11 +100,11 @@ a:hover {
 
 footer {
     background-color: #4E5D6C;
-    padding: 2%;
     font-size: 15px;
-    box-shadow: 3px 3px 3px #001f3f;
     font-family: 'ZCOOL QingKe HuangYou', cursive;
+    padding-bottom: 10px;
 }
+
 
 a {
     color: #aed9da;
