@@ -119,10 +119,9 @@ a:hover {
   padding-right: 50px;
   padding-top: 10px;
   font-size: 40px;
-  width: 50px;
-  text-align: right;
+  width: 10px;
   text-decoration: none;
-  border-radius: 50%;
+  border-radius: 20%;
 }
 
 /*------ Hall Of Fame -------*/
@@ -144,3 +143,19 @@ td {
     text-align: center;
     background-color: #001f3f;
 }
+
+/*------ About Page -------*/
+
+.social-icon {
+    display: inline-block;
+    margin: 0 10px;
+    
+}
+
+/*------ Contact Page -------*/
+
+.form {
+    width: 50%;
+    margin-left: 300px;
+}
+
