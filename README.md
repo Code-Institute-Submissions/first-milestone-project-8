@@ -9,4 +9,11 @@ aspiring game journalists, where they can point to a portfolio of their own publ
 
 <h2>UX</h2>
 
+aspiring writers
+hobbyists
+retro game enthusiasts
+fallout fans
+casual game fans
+
+
 
