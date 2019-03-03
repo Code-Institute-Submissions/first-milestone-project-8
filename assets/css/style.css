@@ -144,6 +144,10 @@ td {
     background-color: #001f3f;
 }
 
+table.table-responsive tr:hover td {
+    background-color: #4C6278;
+}
+
 /*------ Carousel styling ------*/
 
 .carousel-caption-top {
