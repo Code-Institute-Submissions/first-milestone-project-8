@@ -4,10 +4,14 @@
 idea behind the site is to create as much community engagement as possible, something that is lacking in it's current form due to it's relatively
 clunky interface.</p> <p>It is my hope that by creating a sleeker look and more user friendly navigation; it could potentially become something of a
 hub style website containing a forum - allowing for greater engagement between the sites users and content creators, as well as acting as a hosting site for
-aspiring game journalists, where they can point to a portfolio of their own published writing.</p> <p>Games revisited is very much a niche site, so there is something of a focus
-on lists and features in order to make the information easily digestible for anyone unfamiliar with the concept</p>
+aspiring game journalists, where they can point to a portfolio of their own published writing.</p> <p>Games Revisited is very much a niche site, so there is something of a focus
+on lists and features in order to make the information easily digestible for anyone unfamiliar with the concept.</p>
 
 <h2>UX</h2>
+
+<p>The main goal of Games Revisited is to create a regualr userbase. As such, emphasis has been placed on contact pages;
+as well as offering users the chance to submit their own writing. Social links have been included for the site, as well as for the writers 
+themselves. </p>
 
 aspiring writers
 hobbyists
