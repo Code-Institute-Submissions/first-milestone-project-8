@@ -30,6 +30,12 @@ html {
     font-size: 4rem;
 }
 
+.fa-gamepad {
+    display: inline-table;
+    margin: 0 10px;
+    font-size: 70px;
+    text-align: center;
+}
 
 
 
