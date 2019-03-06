@@ -31,10 +31,10 @@ html {
 }
 
 .fa-gamepad {
-    display: inline-table;
+    display: inline-block;
     margin: 0 10px;
     font-size: 70px;
-    text-align: center;
+    text-align: justify;
 }
 
 
