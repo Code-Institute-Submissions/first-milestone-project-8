@@ -18,7 +18,7 @@ themselves. </p>
 <li>As a retro game enthusiast, I want to be able to see a variety of games from different years and platforms, so that I can ascertain the level of knowledge posessed by the site's writers </li>
 <li>As somebody new to retro gaming, I want to be able to learn as much as possible as quickly as I can, so that I can get started playing the best retro games possible.</li>
 <li>As a casual gamer, I'm looking to reminisce about games I've played in my childhood and suggest other titles for writers to review.</li>
-<li>As a hardcore gamer, I'm looking to find niche content that I wont find anywhere else so that I can better understand different franchises</li>
+<li>As an avid gamer, I'm looking to find niche content that I wont find anywhere else so that I can better understand different franchises</li>
 </ul>
 
 <h2>Features</h2>
