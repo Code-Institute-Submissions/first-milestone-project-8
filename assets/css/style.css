@@ -210,9 +210,18 @@ td a {
 .col-6 {
     text-align: center;
     padding-top: 20px;
-    padding-bottom: 5px;
+    padding-bottom: 15px;
     font-family: 'ZCOOL QingKe HuangYou';
 }
+
+.email-card {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-family: 'ZCOOL QingKe HuangYou';
+}
+
+
 
 
 
