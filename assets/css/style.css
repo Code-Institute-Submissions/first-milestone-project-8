@@ -96,25 +96,11 @@ a:hover {
     color: #3A94A8;
 }
 
-/*------ Card styling ------*/
-
-.padding {
-    margin: 50px;
-}
-
-/*------ form styling ------*/
-
-.form {
-    width: 100%;
-    padding: 20px 20px;
-    margin: 8px 0;
-}
 
 /*------ footer styling -------*/
 
 .footer-distributed {
     background-color: #4E5D6C;
-    box-sizing: border-box;
     width: 100%;
     font-size: 20px;
     font-family: 'ZCOOL QingKe HuangYou', cursive;
@@ -124,30 +110,6 @@ a:hover {
 .col-12 {
     display: flex;
     justify-content: center;
-}
-
-
-
-
-@media (max-width: 600px) {
-
-    .footer-distributed .footer-left,
-    .footer-distributed .footer-right {
-        text-align: center;
-    }
-
-    .footer-distributed .footer-right {
-        float: none;
-        margin: 0 auto 20px;
-    }
-
-    .footer-distributed .footer-left p.footer-links {
-        line-height: 1.8;
-    }
-}
-
-.fab-about {
-    font-size: 45px;
 }
 
 
@@ -221,7 +183,9 @@ td a {
     font-family: 'ZCOOL QingKe HuangYou';
 }
 
-
+.fab-about {
+    font-size: 45px;
+}
 
 
 
