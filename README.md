@@ -25,6 +25,10 @@ themselves. </p>
 
 <h3>Existing Features</h3>
 
+<p>All pages contain a header image, a navbar and a footer. The header image is a smaller version of the front page hero image and text, made using Bootstrap Jumbotron. The navbar contains
+links to all pages on the site, and has been tested for responsiveness so that it stacks into a burger menu on smaller screens. The footer also contains links to other page, but in a row instead of a navbar and with
+social media links for the site underneath. The footer has also been checked for responsiveness, the text remains central on smaller screens, whislt the links stack nicely underneath.</p>
+
 <ul>
 <li>Feature 1 - The Welcome page <p>The user is welcomed to the page by a hero image taking up the entire background (aside from the nav), with the name of the site and it's slogan in the centre. The goals of the site are summed up
 in a grid of cards under the hero image, each featuring a FontAwesome glyphicon</p></li>
@@ -36,8 +40,12 @@ to try and start a dialogue with anyone who may disagree with the opinions prese
 <li>Feature 4 - The Fallout Map Page <p>This page contains some of the more niche content for people who consider gaming to be their primary hobby, in particular fans of the Fallout franchise.
 The images have been neatly displayed within a carousel including text boxes on the images. This provides some interactivity for those interested, as well as being condensed enough that the content
 will not intrude to anyone who isn't interested.</p></li>
-<li>Feature 5 - The About Page <p>Cards displaying information and social links for everyone who writes for the site, allowing users to contact writers personally</li>
-<li>
+<li>Feature 5 - The About Page <p>The About page contains cards displaying information and social links for everyone who writes for the site, allowing users to contact writers personally. This page also features
+a button just above the footer, taking users straight through to the contact page.</li>
+<li>Feature 6 - The Contact Page <P>The contact page was initially concieved to be part of the about page, but due to a desire for the contact form to have seperate functions and therefore be split in two, it felt
+more aesthetically pleasing to create a singular contact page. There are two froms on this page, one of which is designed for requests and general comments, and so includes a dropdown bar
+wherein the user can select a writer to contact. The second form is for potential writers to send in samples of their work, and so works in a similar format, but with an attach button
+replacing the dropdown bar</li>
 
 
 

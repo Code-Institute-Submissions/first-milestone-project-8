@@ -3,7 +3,10 @@
 body,
 html {
     height: 100%;
+    overflow-x: auto;
 }
+
+
 
 
 .hero-image {
@@ -13,6 +16,7 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    overflow: visible;
 
 }
 
@@ -166,7 +170,7 @@ td a {
     display: inline-block;
     margin: 0 10px;
     min-height: 200px;
-
+   
 }
 
 .col-6 {
