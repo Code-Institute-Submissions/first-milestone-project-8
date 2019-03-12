@@ -171,8 +171,11 @@ td a {
 .social-icon {
     display: inline-block;
     margin: 0 10px;
-    min-height: 200px;
    
+}
+
+.outerblock {
+    text-align: center;
 }
 
 .col-6 {
